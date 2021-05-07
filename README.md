@@ -7,10 +7,12 @@ Kelas : TI 19 C1
 ~~~
 # 1. Persiapan Membuat Aplikasi GUI
 ketik guide pada command windows lalu tekan enter
+
 ![1  guide](https://user-images.githubusercontent.com/81839328/117487377-36d74e80-af95-11eb-9bc2-b225c807e302.JPG)
 
 # 2. Creat New GUI
 Pilih creat new GUI, tentukan lokasi penyimpanan lalu tekan OK
+
 ![2  new gui](https://user-images.githubusercontent.com/81839328/117487412-422a7a00-af95-11eb-9e5a-36fc2c90964b.JPG)
 
 # 3. Buat Tampilan GUI sesuai kebutuhan
@@ -18,6 +20,7 @@ Pilih creat new GUI, tentukan lokasi penyimpanan lalu tekan OK
 
 # 4. Buat Source Code
 Untuk memanggil tombol fungsi pada source klik kanan pada tombol fungsi >> view callback >> callback
+
 ![4  callback](https://user-images.githubusercontent.com/81839328/117487831-cd0b7480-af95-11eb-8835-2db1a0bdefc4.png)
 
 Membuat Source Code
@@ -92,5 +95,16 @@ axes(handles.axes2);
 imshow(citra2);
 ~~~
 ![5  source](https://user-images.githubusercontent.com/81839328/117487838-cf6dce80-af95-11eb-997e-24b6d36c665a.JPG)
+
+# 5. Running Aplikasi GUI
+![6  Run](https://user-images.githubusercontent.com/81839328/117488341-7c484b80-af96-11eb-9ab4-dcd023b93e97.JPG)
+
+# 6. Insert Image
+![7  Insert](https://user-images.githubusercontent.com/81839328/117488391-8d915800-af96-11eb-94b1-6c3765ddea49.JPG)
+![8  open](https://user-images.githubusercontent.com/81839328/117488425-95e99300-af96-11eb-913f-ed11f71c82d5.JPG)
+
+# 7. Hasil Akhir
+![9  akhir](https://user-images.githubusercontent.com/81839328/117488476-a994f980-af96-11eb-8098-d2f865759a56.JPG)
+
 
 
